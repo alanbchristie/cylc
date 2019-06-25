@@ -21,7 +21,7 @@
 
   - name: Deploy Cylc
     include_role:
-      name: cylc
+      name: alanbchristie.blob
     vars:
       cylc_visualisation: yes
       display: DISPLAY=:99

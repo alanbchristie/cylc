@@ -26,8 +26,8 @@ install:
 
 before_script:
 - cd ../
-- mv cylc alanbchristie.cylc
-- cd alanbchristie.cylc
+- mv cylc alanbchristie.blob
+- cd alanbchristie.blob
 
 script:
 - molecule test
