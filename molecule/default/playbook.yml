@@ -3,4 +3,4 @@
   hosts: all
   tasks:
   - include_role:
-      name: alanbchristie.blob
+      name: alanbchristie.cylc
